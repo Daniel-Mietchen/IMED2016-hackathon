@@ -19,7 +19,7 @@ These resources will be outlined here in this repo in the weeks leading to the h
 # Using and reusing data
 Besides data, we welcome models, ontologies, analytical and visualization tools, apps and other approaches that can help make sense of the data or put it to new uses, with a focus on what can be done within the timeframe of the hackathon. 
 
-Example use cases:
+For inspiration, here are some example use cases:
 * [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://dx.doi.org/10.12688/f1000research.9110.1)
  - [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
  - [Docker image](https://hub.docker.com/r/maayanlab/zika/)
@@ -27,8 +27,8 @@ Example use cases:
 * [Visualization of selected information mined from the Zika literature](https://larsgw.github.io/contentmine-fellowship/html/card_c05.html)
 
 # To do
-This repo is work in progress. Some of the things that are likely to be added soon are listed here.
-* spell out data sources
+This repo is work in progress. Some of the things that are likely to be added soon are listed in this section.
+* spell out data sources listed [here](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets)
 * search for Zika data on GitHub, Zenodo, Figshare, Dryad, Wikidata etc. and integrate the search results here
 * mentors
 * hashtag 
