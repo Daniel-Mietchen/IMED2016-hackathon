@@ -17,7 +17,7 @@ In addition, participants will have the possibility to work with a selection of 
 These resources will be outlined here in this repo in the weeks leading to the hackathon. A very rough draft is available via [https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets).
 
 # Using and reusing data
-Besides data, we welcome models, ontologies, analytical and visualization tools, apps and other approaches that can help make sense of the data or put it to new uses. 
+Besides data, we welcome models, ontologies, analytical and visualization tools, apps and other approaches that can help make sense of the data or put it to new uses, with a focus on what can be done within the timeframe of the hackathon. 
 
 Example use cases:
 * [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://dx.doi.org/10.12688/f1000research.9110.1)
