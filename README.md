@@ -4,6 +4,11 @@ This repo contains auxiliary materials for the [IMED 2016 hackathon](http://www.
 # Theme
 The hackathon is themed around infectious disease outbreaks and their relation to climate change.
 
+Some background on the topic can be found in the following resources:
+* [The Ecology of Climate Change and Infectious Diseases](http://www.chgeharvard.org/resource/ecology-climate-change-and-infectious-diseases)
+* [Climate Change And Infectious Diseases](http://www.who.int/globalchange/environment/en/chapter6.pdf)
+* [Evolution in action: climate change, biodiversity dynamics and emerging infectious disease](https://doi.org/10.1098/rstb.2013.0553)
+
 # Data
 Several sets of data will be available to hackathon participants during the event, as outlined at [http://www.hackathon.isid.org/resources](http://www.hackathon.isid.org/resources). 
 
