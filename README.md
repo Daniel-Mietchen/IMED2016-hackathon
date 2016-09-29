@@ -22,11 +22,13 @@ Besides data, we welcome models, ontologies, analytical and visualization tools,
 # To do
 This repo is work in progress. Some of the things that are likely to be added soon are listed here.
 * spell out data sources
+* search for Zika data on GitHub, Zenodo, Figshare, Dryad, Wikidata etc. and list the search results here
 * mentors
-* hashtag
-* hackathon for newbies
+* hashtag 
+   - #IMED2016 seems to be used for the conference; not sure the hackathon should use the same
 * how to get involved
 * contact
+* hackathon intro for newbies
 * your contributions
 
 # See also
