@@ -36,7 +36,8 @@ This repo is work in progress. Some of the things that are likely to be added so
 * how to get involved
 * contact
 * hackathon intro for newbies
-* your contributions
+* illustrations
+* your contributions?
 
 # See also
 * IMED 2016 talk: [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md)
