@@ -22,6 +22,8 @@ Besides data, we welcome models, ontologies, analytical and visualization tools,
 # To do
 * spell out data sources
 * mentors
+* hashtag
+* hackathon newbies
 
 # See also
 * IMED 2016 talk: [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md)
