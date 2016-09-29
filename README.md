@@ -19,6 +19,9 @@ These resources will be outlined here in this repo in the weeks leading to the h
 # Using and reusing data
 Besides data, we welcome models, ontologies, analytical and visualization tools, apps and other approaches that can help make sense of the data or put it to new uses. 
 
+Example use case:
+* [Data-driven identification of potential Zika virus vectors](http://dx.doi.org/10.1101/077966)
+
 # To do
 This repo is work in progress. Some of the things that are likely to be added soon are listed here.
 * spell out data sources
