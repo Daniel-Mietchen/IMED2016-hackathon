@@ -28,10 +28,10 @@ Example use cases:
 # To do
 This repo is work in progress. Some of the things that are likely to be added soon are listed here.
 * spell out data sources
-* search for Zika data on GitHub, Zenodo, Figshare, Dryad, Wikidata etc. and list the search results here
+* search for Zika data on GitHub, Zenodo, Figshare, Dryad, Wikidata etc. and integrate the search results here
 * mentors
 * hashtag 
-   - #IMED2016 seems to be used for the conference; not sure the hackathon should use the same
+   - [#IMED2016](https://twitter.com/hashtag/IMED2016?src=hash) seems to be used for the conference; not sure the hackathon should use the same
 * how to get involved
 * contact
 * hackathon intro for newbies
