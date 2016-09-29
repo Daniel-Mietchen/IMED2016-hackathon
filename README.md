@@ -19,7 +19,10 @@ These resources will be outlined here in this repo in the weeks leading to the h
 # Using and reusing data
 Besides data, we welcome models, ontologies, analytical and visualization tools, apps and other approaches that can help make sense of the data or put it to new uses. 
 
-Example use case:
+Example use cases:
+* [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://dx.doi.org/10.12688/f1000research.9110.1)
+ - [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
+ - [Docker image](https://hub.docker.com/r/maayanlab/zika/)
 * [Data-driven identification of potential Zika virus vectors](http://dx.doi.org/10.1101/077966)
 
 # To do
