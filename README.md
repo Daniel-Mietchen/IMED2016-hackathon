@@ -20,11 +20,14 @@ These resources will be outlined here in this repo in the weeks leading to the h
 Besides data, we welcome models, ontologies, analytical and visualization tools, apps and other approaches that can help make sense of the data or put it to new uses. 
 
 # To do
+This repo is work in progress. Some of the things that are likely to be added soon are listed here.
 * spell out data sources
 * mentors
 * hashtag
-* hackathon newbies
+* hackathon for newbies
+* how to get involved
 * contact
+* your contributions
 
 # See also
 * IMED 2016 talk: [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md)
