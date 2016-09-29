@@ -24,6 +24,7 @@ Example use cases:
  - [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
  - [Docker image](https://hub.docker.com/r/maayanlab/zika/)
 * [Data-driven identification of potential Zika virus vectors](http://dx.doi.org/10.1101/077966)
+* [Visualization of selected information mined from the Zika literature](https://larsgw.github.io/contentmine-fellowship/html/card_c05.html)
 
 # To do
 This repo is work in progress. Some of the things that are likely to be added soon are listed here.
