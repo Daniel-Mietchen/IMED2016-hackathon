@@ -5,6 +5,7 @@ This repo contains auxiliary materials for the [IMED 2016 hackathon](http://www.
 The hackathon is themed around infectious disease outbreaks and their relation to climate change.
 
 Some background on the topic can be found in the following resources:
+* [4 reasons disease outbreaks are erupting around the world](http://www.vox.com/2016/5/31/11638796/why-there-are-more-infectious-disease-outbreaks) (introductory; a "warming climate" is listed as number 4)
 * [Climate Change And Infectious Diseases](http://www.who.int/globalchange/environment/en/chapter6.pdf) (introductory)
 * [Evolution in action: climate change, biodiversity dynamics and emerging infectious disease](https://doi.org/10.1098/rstb.2013.0553) (intermediate)
 * [Climate change and vector-borne diseases of humans](http://rstb.royalsocietypublishing.org/content/370/1665.toc) (advanced)
@@ -25,6 +26,8 @@ For inspiration, here are some example use cases:
  - [Docker image](https://hub.docker.com/r/maayanlab/zika/)
 * [Data-driven identification of potential Zika virus vectors](http://dx.doi.org/10.1101/077966)
 * [Visualization of selected information mined from the Zika literature](https://larsgw.github.io/contentmine-fellowship/html/card_c05.html)
+* [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak)
+* [How mobile data visualization helped reduce malaria cases by 93% — Zika could be next](http://venturebeat.com/2016/08/31/mobile-data-visualization-reduce-malaria-93-zika/)
 
 # To do
 This repo is work in progress. Some of the things that are likely to be added soon are listed in this section.
