@@ -29,7 +29,8 @@ For inspiration, here are some example use cases:
 # To do
 This repo is work in progress. Some of the things that are likely to be added soon are listed in this section.
 * spell out data sources listed [here](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets)
-* search for Zika data on GitHub, Zenodo, Figshare, Dryad, Wikidata etc. and integrate the search results here
+* search for Zika data [on GitHub](https://github.com/search?utf8=%E2%9C%93&q=zika+data), Zenodo, Figshare, Dryad, Wikidata, [climatefeedback](http://climatefeedback.org/) etc. and integrate the search results here
+* open issues in this repo for project ideas
 * mentors
 * hashtag 
    - [#IMED2016](https://twitter.com/hashtag/IMED2016?src=hash) seems to be used for the conference; not sure the hackathon should use the same
@@ -40,4 +41,5 @@ This repo is work in progress. Some of the things that are likely to be added so
 * your contributions?
 
 # See also
+* [Zika Hackathon at University of Texas Austin on May 16, 2016](https://github.com/cloudera-cares-austin/zika-hackathon)
 * IMED 2016 talk: [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md)
