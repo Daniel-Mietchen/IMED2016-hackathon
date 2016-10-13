@@ -32,6 +32,9 @@ For inspiration, here are some example use cases:
 * [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak)
 * [How mobile data visualization helped reduce malaria cases by 93% — Zika could be next](http://venturebeat.com/2016/08/31/mobile-data-visualization-reduce-malaria-93-zika/)
 
+# Hashtag
+* The hackathon will use the same hashtag as the main IMED conference, i.e. [#IMED2016](https://twitter.com/search?vertical=default&q=IMED2016).
+
 # Contact
 * The hackathon organizers can be reached via email to john.ramatowski AT isid DOT org .
 * You can also tweet me via [@EvoMRI](https://twitter.com/EvoMRI).
