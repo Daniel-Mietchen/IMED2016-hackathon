@@ -32,6 +32,10 @@ For inspiration, here are some example use cases:
 * [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak)
 * [How mobile data visualization helped reduce malaria cases by 93% — Zika could be next](http://venturebeat.com/2016/08/31/mobile-data-visualization-reduce-malaria-93-zika/)
 
+# Contact
+* The hackathon organizers can be reached via email to john.ramatowski AT isid DOT org .
+* You can also tweet me via [@EvoMRI](https://twitter.com/EvoMRI).
+
 # To do
 This repo is work in progress. Some of the things that are likely to be added soon are listed in this section.
 * spell out data sources listed [here](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets)
@@ -41,7 +45,6 @@ This repo is work in progress. Some of the things that are likely to be added so
 * hashtag 
    - [#IMED2016](https://twitter.com/hashtag/IMED2016?src=hash) seems to be used for the conference; not sure the hackathon should use the same; perhaps [#IMEDhack](https://twitter.com/search?f=tweets&q=IMEDhack)?
 * how to get involved
-* contact
 * hackathon intro for newbies
 * illustrations
 * your contributions?
