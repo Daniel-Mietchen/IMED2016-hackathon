@@ -39,7 +39,7 @@ This repo is work in progress. Some of the things that are likely to be added so
 * open issues in this repo for project ideas
 * mentors
 * hashtag 
-   - [#IMED2016](https://twitter.com/hashtag/IMED2016?src=hash) seems to be used for the conference; not sure the hackathon should use the same; perhaps [#IMEDhack](https://twitter.com/hashtag/IMEDhack?src=hash)?
+   - [#IMED2016](https://twitter.com/hashtag/IMED2016?src=hash) seems to be used for the conference; not sure the hackathon should use the same; perhaps [#IMEDhack](https://twitter.com/search?f=tweets&q=IMEDhack)?
 * how to get involved
 * contact
 * hackathon intro for newbies
