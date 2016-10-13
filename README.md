@@ -37,7 +37,7 @@ For inspiration, here are some example use cases:
 
 # Contact
 * The hackathon organizers can be reached via email to john.ramatowski AT isid DOT org .
-* You can also tweet me via [@EvoMRI](https://twitter.com/EvoMRI).
+* You can reach me via daniel.mietchen AT nih DOT gov or [@EvoMRI](https://twitter.com/EvoMRI).
 
 # To do
 This repo is work in progress. Some of the things that are likely to be added soon are listed in this section.
