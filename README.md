@@ -31,6 +31,8 @@ For inspiration, here are some example use cases:
 * [Visualization of selected information mined from the Zika literature](https://larsgw.github.io/contentmine-fellowship/html/card_c05.html)
 * [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak)
 * [How mobile data visualization helped reduce malaria cases by 93% — Zika could be next](http://venturebeat.com/2016/08/31/mobile-data-visualization-reduce-malaria-93-zika/)
+* [Mapping the global geographic potential of Zika virus spread](http://dx.doi.org/10.1590/0074-02760160149)
+* [Dynamic forecasting of Zika epidemics using Google Trends](http://dx.doi.org/10.1101/076521)
 
 # Hashtag
 * The hackathon will use the same hashtag as the main IMED conference, i.e. [#IMED2016](https://twitter.com/search?vertical=default&q=IMED2016).
