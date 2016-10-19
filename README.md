@@ -11,6 +11,7 @@ Some background on the topic can be found in the following resources:
 * [Climate change and vector-borne diseases of humans](http://rstb.royalsocietypublishing.org/content/370/1665.toc) (advanced)
 
 Within that wider theme, one of the focal areas will be the ongoing [Zika virus outbreak](https://en.wikipedia.org/wiki/2015%E2%80%9316_Zika_virus_epidemic). Some background on this:
+* [Zika Virus on a Spreading Spree: what we now know that was unknown in the 1950’s](https://doi.org/10.1186/s12985-016-0623-2) (intermediate)
 * [Analyzing climate variations at multiple timescales can guide Zika virus response measures](https://doi.org/10.1186/s13742-016-0146-1) (advanced)
 
 # Data
