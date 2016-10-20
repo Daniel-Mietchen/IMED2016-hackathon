@@ -45,7 +45,7 @@ For inspiration, here are some example use cases:
 # To do
 This repo is work in progress. Some of the things that are likely to be added soon are listed in this section.
 * spell out data sources listed [here](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets)
-* search for Zika data [on GitHub](https://github.com/search?utf8=%E2%9C%93&q=zika+data), [Zenodo](https://zenodo.org/search?page=1&size=20&q=zika), [figshare](https://figshare.com/search?q=zika&quick=1), [Dryad](https://datadryad.org/discover?query=zika&submit=Go), [Wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#On_Wikidata), [climatefeedback](http://climatefeedback.org/), [Twitter](https://twitter.com/search?f=tweets&vertical=default&q=data%20AND%20%28zika%20OR%20zikasummit%20OR%20zikaresearch%20OR%20openzika%20OR%20zikaopen%20OR%20zikavirus%20OR%20fightaedes%20OR%20aedes%29) etc. and integrate the search results here
+* search for Zika data [on GitHub](https://github.com/search?utf8=%E2%9C%93&q=zika+data), [Zenodo](https://zenodo.org/search?page=1&size=20&q=zika), [figshare](https://figshare.com/search?q=zika&quick=1), [Dryad](https://datadryad.org/discover?query=zika&submit=Go), [Wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#On_Wikidata), [climatefeedback](http://climatefeedback.org/?s=zika) (nothing so far), [Twitter](https://twitter.com/search?f=tweets&vertical=default&q=data%20AND%20%28zika%20OR%20zikasummit%20OR%20zikaresearch%20OR%20openzika%20OR%20zikaopen%20OR%20zikavirus%20OR%20fightaedes%20OR%20aedes%29) etc. and integrate the search results here
 * open issues in this repo for project ideas
 * mentors
 * how to get involved
