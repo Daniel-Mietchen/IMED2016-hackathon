@@ -7,6 +7,7 @@ The hackathon is themed around infectious disease outbreaks and their relation t
 Some background on the topic can be found in the following resources:
 * [4 reasons disease outbreaks are erupting around the world](http://www.vox.com/2016/5/31/11638796/why-there-are-more-infectious-disease-outbreaks) (introductory; a "warming climate" is listed as number 4)
 * [Climate Change And Infectious Diseases](http://www.who.int/globalchange/environment/en/chapter6.pdf) (introductory)
+* [Climate change and infectious diseases](https://doi.org/10.1186/s40985-016-0035-2) (intermediate)
 * [Evolution in action: climate change, biodiversity dynamics and emerging infectious disease](https://doi.org/10.1098/rstb.2013.0553) (intermediate)
 * [Climate change and vector-borne diseases of humans](http://rstb.royalsocietypublishing.org/content/370/1665.toc) (advanced)
 
