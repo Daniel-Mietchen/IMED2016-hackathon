@@ -43,7 +43,7 @@ Some free and open-source options that are being considered:
 * [Twine](https://twinery.org/)
 * [Silver decisions](http://silverdecisions.pl/)
 * [Gambit](http://gambit.sourceforge.net/)
-* [R](http://www.statmethods.net/advstats/cart.html)
+* [various R packages](http://www.statmethods.net/advstats/cart.html)
 
 # Hashtag
 * The hackathon will use the same hashtag as the main IMED conference, i.e. [#IMED2016](https://twitter.com/search?vertical=default&q=IMED2016).
