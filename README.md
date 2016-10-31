@@ -38,7 +38,7 @@ For inspiration, here are some example use cases:
 * [Dynamic forecasting of Zika epidemics using Google Trends](http://dx.doi.org/10.1101/076521)
 
 # Project ideas
-* [Decision tree tools for data sharing in public health emergencies](https://github.com/Daniel-Mietchen/IMED2016-hackathon/issues/1)
+* [Explore decision tree tools for data sharing in public health emergencies](https://github.com/Daniel-Mietchen/IMED2016-hackathon/issues/1)
 
 # Hashtag
 * The hackathon will use the same hashtag as the main IMED conference, i.e. [#IMED2016](https://twitter.com/search?vertical=default&q=IMED2016).
