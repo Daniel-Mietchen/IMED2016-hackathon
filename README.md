@@ -37,6 +37,14 @@ For inspiration, here are some example use cases:
 * [Mapping the global geographic potential of Zika virus spread](http://dx.doi.org/10.1590/0074-02760160149)
 * [Dynamic forecasting of Zika epidemics using Google Trends](http://dx.doi.org/10.1101/076521)
 
+# Decision tree tools for data sharing in public health emergencies
+The Global Research Collaboration for Infectious Disease Preparedness ([GloPID-R](http://www.glopid-r.org/)) has a [Data Sharing Working Group](http://www.glopid-r.org/newsletter/data-sharing-working-group/), which is working on a decision tree to help address issues around data sharing over the course of a public health emergency. While progress has been made on the kinds of questions that need to go into the tree, it is still unclear how best to visualize and share the tree. It could thus be a nice project for this hackathon to look into this.
+Some free and open-source options that are being considered:
+* [Twine](https://twinery.org/)
+* [Silver decisions](http://silverdecisions.pl/)
+* [Gambit](http://gambit.sourceforge.net/)
+* [R](http://www.statmethods.net/advstats/cart.html)
+
 # Hashtag
 * The hackathon will use the same hashtag as the main IMED conference, i.e. [#IMED2016](https://twitter.com/search?vertical=default&q=IMED2016).
 
