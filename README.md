@@ -32,7 +32,7 @@ For inspiration, here are some example use cases:
  - [Docker image](https://hub.docker.com/r/maayanlab/zika/)
 * [Data-driven identification of potential Zika virus vectors](http://dx.doi.org/10.1101/077966)
 * [Visualization of selected information mined from the Zika literature](https://larsgw.github.io/contentmine-fellowship/html/card_c05.html)
-* [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak)
+* [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak) ([follow-up post](http://scholar.harvard.edu/jonjay/blog/latest-miami-zika-outbreak-hits-another-high-vacancy-neighborhood))
 * [How mobile data visualization helped reduce malaria cases by 93% — Zika could be next](http://venturebeat.com/2016/08/31/mobile-data-visualization-reduce-malaria-93-zika/)
 * [Mapping the global geographic potential of Zika virus spread](http://dx.doi.org/10.1590/0074-02760160149)
 * [Dynamic forecasting of Zika epidemics using Google Trends](http://dx.doi.org/10.1101/076521)
