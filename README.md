@@ -1,5 +1,5 @@
 # About
-This repo contains auxiliary materials for the [IMED 2016 hackathon](http://www.hackathon.isid.org/) that is taking place in Vienna on November 3-5, 2016, as a companion event to the [IMED 2016 conference](http://imed.isid.org/) on November 4-7, 2016, also in Vienna. To apply for the hackathon, go [here](http://www.hackathon.isid.org/apply).
+This repo contains auxiliary materials for the [IMED 2016 hackathon](http://www.hackathon.isid.org/) that is taking place in Vienna on November 3-5, 2016, as a companion event to the [IMED 2016 conference](http://imed.isid.org/) on November 4-7, 2016, also in Vienna. 
 
 # Theme
 The hackathon is themed around infectious disease outbreaks and their relation to climate change.
