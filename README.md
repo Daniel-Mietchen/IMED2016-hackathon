@@ -40,6 +40,7 @@ For inspiration, here are some example use cases:
 # Project ideas
 * [Explore decision tree tools for data sharing in public health emergencies](https://github.com/Daniel-Mietchen/IMED2016-hackathon/issues/1)
 * [Adding epidemiological information to Wikidata](https://pad.okfn.org/p/IMED2016-hackathon-Wikidata)
+  * [summary report](https://docs.google.com/presentation/d/1bw34ye3IlD5oVq7rVg3aZ9353bL1ytc5s28rSQ4yn4k/pub)
 
 # Hashtag
 * The hackathon will use the same hashtag as the main IMED conference, i.e. [#IMED2016](https://twitter.com/search?vertical=default&q=IMED2016).
