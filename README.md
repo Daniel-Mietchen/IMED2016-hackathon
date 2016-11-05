@@ -16,12 +16,12 @@ Within that wider theme, one of the focal areas will be the ongoing [Zika virus 
 * [Zika Virus on a Spreading Spree: what we now know that was unknown in the 1950’s](https://doi.org/10.1186/s12985-016-0623-2) (intermediate)
 * [Analyzing climate variations at multiple timescales can guide Zika virus response measures](https://doi.org/10.1186/s13742-016-0146-1) (advanced)
 
-# Data
+# Data sources
 Several sets of data will be available to hackathon participants during the event, as outlined at [http://www.hackathon.isid.org/resources](http://www.hackathon.isid.org/resources). 
 
 In addition, participants will have the possibility to work with a selection of data resources related to the Zika outbreak, with a strong focus on [open data](https://en.wikipedia.org/wiki/Open_data), since data sharing is increasingly [recognized](http://dx.doi.org/10.1371/journal.pmed.1002109) as a key element of responses to both [infectious disease outbreaks](https://wellcome.ac.uk/news/sharing-data-during-zika-and-other-global-health-emergencies) and [climate change](https://www.engadget.com/2016/09/22/white-house-fight-climate-change-data-sharing/).
-
-These resources will be outlined here in this repo in the weeks leading to the hackathon. A very rough draft is available via [https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets).
+* several data sources are listed [here](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets)
+* you can also search for Zika data [on GitHub](https://github.com/search?utf8=%E2%9C%93&q=zika+data), [Zenodo](https://zenodo.org/search?page=1&size=20&q=zika), [figshare](https://figshare.com/search?q=zika&quick=1), [Dryad](https://datadryad.org/discover?query=zika&submit=Go), [Wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#On_Wikidata), [climatefeedback](http://climatefeedback.org/?s=zika) (nothing so far), [Twitter](https://twitter.com/search?f=tweets&vertical=default&q=data%20AND%20%28zika%20OR%20zikasummit%20OR%20zikaresearch%20OR%20openzika%20OR%20zikaopen%20OR%20zikavirus%20OR%20fightaedes%20OR%20aedes%29) etc. and integrate the search results here
 
 # Using and reusing data
 Besides data, we welcome models, ontologies, analytical and visualization tools, apps and other approaches that can help make sense of the data or put it to new uses, with a focus on what can be done within the timeframe of the hackathon. 
@@ -48,11 +48,6 @@ For inspiration, here are some example use cases:
 # Contact
 * The hackathon organizers can be reached via email to john.ramatowski AT isid DOT org .
 * You can reach me via daniel.mietchen AT nih DOT gov or on Twitter via [@EvoMRI](https://twitter.com/EvoMRI).
-
-# Data sources
-This repo is work in progress. Some of the things that are likely to be added soon are listed in this section.
-* several data sources listed [here](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets)
-* search for Zika data [on GitHub](https://github.com/search?utf8=%E2%9C%93&q=zika+data), [Zenodo](https://zenodo.org/search?page=1&size=20&q=zika), [figshare](https://figshare.com/search?q=zika&quick=1), [Dryad](https://datadryad.org/discover?query=zika&submit=Go), [Wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#On_Wikidata), [climatefeedback](http://climatefeedback.org/?s=zika) (nothing so far), [Twitter](https://twitter.com/search?f=tweets&vertical=default&q=data%20AND%20%28zika%20OR%20zikasummit%20OR%20zikaresearch%20OR%20openzika%20OR%20zikaopen%20OR%20zikavirus%20OR%20fightaedes%20OR%20aedes%29) etc. and integrate the search results here
 
 # See also
 * [Zika Research mailing list](https://groups.google.com/forum/#!forum/zika-research)
